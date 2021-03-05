@@ -1,4 +1,4 @@
-# PacMan-Assignment
+# Pac-Man Assignment
 
 ## Description
 
