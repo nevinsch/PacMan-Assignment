@@ -7,7 +7,7 @@ to cue a change in direction.
 
 ## Usage 
 
-Can use this as a demo of how to use variables, conditionals, and logical operators
+Can use with appropriate connecting HTML file as a demo of how to use variables, conditionals, and logical operators.
 
 ## Support 
 
