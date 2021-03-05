@@ -11,7 +11,7 @@ Can use this as a demo of how to use variables, conditionals, and logical operat
 
 ## Support 
 
-For support, the Mozilla Developer network articles on the topics mentioned in "Usage" would be helpful. 
+For support, reference the Mozilla Developer Network. 
 
 ## Roadmap
 
